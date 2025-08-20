@@ -1,0 +1,9 @@
+# Firewall Configuration
+firewall-policy 1
+   source 192.168.1.0/24
+   destination any
+   action allow
+firewall-policy 2
+   source any
+   destination 192.168.2.0/24
+   action deny
