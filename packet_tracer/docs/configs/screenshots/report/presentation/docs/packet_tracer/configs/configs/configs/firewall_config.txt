@@ -1,0 +1,2 @@
+# Placeholder for Firewall Configuration
+(Add ACLs, NAT, security rules here later.)
