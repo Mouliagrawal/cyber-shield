@@ -1,0 +1,2 @@
+# Placeholder for Router Configuration
+(Add router commands here later, like interface setup, IP routing, OSPF, etc.)
